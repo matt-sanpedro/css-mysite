@@ -1,5 +1,7 @@
 body {
   margin: 0;
+  text-align: center;
+  font-family: sans-serif;
 }
 
 h1 {
@@ -8,6 +10,8 @@ h1 {
 
 .top-container {
   background-color: #e4f9ff;
+  position: relative;
+  padding-top: 200px;
 }
 
 .middle-container {
@@ -24,4 +28,14 @@ h1 {
 
 .pro {
   text-decoration: underline;
+}
+
+.top-cloud {
+  position: relative;
+  left: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
 }
