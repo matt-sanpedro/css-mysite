@@ -45,6 +45,9 @@ h3 {
 
 .skill-row {
   width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
 }
 
 .pro {
@@ -64,4 +67,16 @@ h3 {
 
 .profile-pic {
   border-radius: 50%;
+}
+
+.laptop-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.guitar-img {
+  width: 25%;
+  float: right;
+  margin-left: 25px;
 }
