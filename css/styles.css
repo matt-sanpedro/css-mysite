@@ -94,3 +94,28 @@ hr {
   float: right;
   margin-left: 25px;
 }
+
+.email_btn {
+    box-shadow: inset 0 -3px 7px 0 #29bbff;
+    background: linear-gradient(to bottom, #2dabf9 5%, #11999E 100%);
+    background-color: #11999E;
+    border-radius: 9px;
+    /* border: 1px solid #0b0e07; */
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 9px 23px;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #263666;
+    margin: 50px auto 100px auto;
+}
+
+.email_btn:hover {
+	background:linear-gradient(to bottom, #0688fa 5%, #2dabf9 100%);
+	background-color:#0688fa;
+}
+.email_btn:active {
+	position:relative;
+	top:1px;
+}
