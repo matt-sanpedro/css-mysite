@@ -54,7 +54,23 @@ hr {
   background-color: #e4f9ff;
   position: relative;
   padding-top: 100px;
+}
 
+.bottom-container {
+    background-color: #66BFBF;
+    position: relative;
+    padding: 34px 0 50px 0;
+}
+
+.bottom-container a {
+  color: #11999E;
+  text-decoration: none;
+  margin: 0 15px 0 15px;
+}
+
+.bottom-container p {
+  color: #FFFFFF;
+  margin-top: 30px;
 }
 
 .skill-row {
