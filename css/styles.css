@@ -74,12 +74,16 @@ hr {
 .bottom-container a {
   color: #11999E;
   text-decoration: none;
-  margin: 0 15px 0 15px;
+  margin: 0px 25px;
+}
+
+.bottom-container a:hover {
+  color: #EAF6F6;
 }
 
 .bottom-container p {
   color: #FFFFFF;
-  margin-top: 30px;
+  padding-top: 25px;
 }
 
 .skill-row {
